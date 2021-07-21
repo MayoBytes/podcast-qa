@@ -1,0 +1,9 @@
+# ignore image binaries
+*.jpg
+*.png
+
+# ignore audio binaries
+episodes/*.mp3
+
+# ignore feed XML
+feed.xml
